@@ -1,0 +1,4 @@
+para realizar este login vamos a dividir los archivo en las carpetas js y en la de vistas, 
+en la carpeta de vista realisaremos los archivos html los cuales visualisara el usuario y se encuantran en este git,
+en la carpeta js pondremos la funcionalidad de todo el programa en 2 archivos para su mejor manejo "acceseo.js y registrar.js",
+en ambas usaremos distintos metodos como lo son el if,for,localstorage ect lo cual validara y registrar en el localstorage los datos del usuario.
